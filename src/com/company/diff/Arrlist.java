@@ -13,5 +13,10 @@ public class Arrlist {
             System.out.println(names.get(i));
             
         }
+        System.out.println();
+
+        for (String name: names) {
+            System.out.println(name);
+        }
     }
 }
