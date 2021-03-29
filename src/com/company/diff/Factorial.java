@@ -4,8 +4,8 @@ public class Factorial {
     public static void main(String[] args) {
         Factorial solution = new Factorial();
 
-        System.out.println(solution.factorial(9));     //362880
-        System.out.println(solution.factorial(0));     //1
+        System.out.println(solution.factorial(10));     //362880
+        System.out.println(solution.factorial(5));     //1
         System.out.println(solution.factorial(1));     //1
     }
 
