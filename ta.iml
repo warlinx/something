@@ -35,5 +35,6 @@
     </orderEntry>
     <orderEntry type="library" name="jsoup-1.13.1" level="project" />
     <orderEntry type="library" name="jsoup-1.13.11" level="project" />
+    <orderEntry type="library" name="scala-sdk-2.13.6" level="application" />
   </component>
 </module>
